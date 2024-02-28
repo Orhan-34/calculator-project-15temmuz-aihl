@@ -1,4 +1,4 @@
-### Project Live Link
+### Live Project Link
 https://orhan-34.github.io/calculator-project-15temmuz-aihl/index.html
 
 ### Project Output Screen
